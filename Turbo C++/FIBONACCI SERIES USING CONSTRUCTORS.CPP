@@ -1,5 +1,3 @@
-
-
 #include<iostreams.h>
 #include<conio.h>
 
