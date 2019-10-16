@@ -1,4 +1,4 @@
-# Zero to Hero ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Ananthavijay/Zero-to-Hero) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php) [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+# Zero to Hero ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Ananthavijay/Zero-to-Hero) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
 This is a repository that contains C++ basics which will take you from basic to advance( Zero to Hero) !
 
